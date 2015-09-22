@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    libcontext (0.1.0)
+    libContext (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -34,7 +34,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.10)
-  libcontext!
+  libContext!
   pry
   rake (~> 10.0)
   rspec
